@@ -1,5 +1,7 @@
 # DrawLikeKids
 
+On every execution, there will be a random image generated, similar to what kids would scribble with their colored pencils
+
 ```
 npm install
 node draw.js
